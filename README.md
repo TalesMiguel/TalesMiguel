@@ -37,7 +37,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,react,nodejs,java,git&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,vue,react,nodejs,java,git&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,redis,html,css,github,figma,aws,terraform&theme=dark" />
 </div>
 
