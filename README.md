@@ -37,8 +37,8 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,vue,react,nodejs,java,git&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,redis,html,css,github,figma,aws,terraform&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,vue,react,django,fastapi,java,nodejs,git,github&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=gitlab,redis,grafana,sentry,elasticsearch,html,postgres,mysql,godot,aws,terraform&theme=dark" />
 </div>
 
 <br/>
