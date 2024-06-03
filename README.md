@@ -33,7 +33,6 @@
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,c,react,nodejs,java,git&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,redis,html,css,github,figma,aws,terraform&theme=dark" />
@@ -50,4 +49,3 @@
 
 <br/><br/>
 
-<hr/>
