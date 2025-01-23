@@ -12,7 +12,7 @@
  
  🔭 I’m currently studying at **UNIFESP - Federal University of São Paulo**
  
- 🌱 I’m focusing my learning in **Python, Artificial Neural Networks and Machine Learning.**
+ 🌱 I’m focusing my learning in **Artificial Neural Networks and Machine Learning using Python**
  
  🎸 Fun fact: I'm also a **musician** in my free time! I'm usually playing **guitar, drums or percussion**
 
