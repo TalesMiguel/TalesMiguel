@@ -12,7 +12,7 @@
  
  🔭 I’m currently studying at **UNIFESP - Federal University of São Paulo**
  
- 🌱 I’m focusing my learning in **Python, JavaScript and React**
+ 🌱 I’m focusing my learning in **Python, Artificial Neural Networks and Machine Learning.**
  
  🎸 Fun fact: I'm also a **musician** in my free time! I'm usually playing **guitar, drums or percussion**
 
@@ -43,7 +43,6 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=React)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=Django)
 ![Fastapi](https://img.shields.io/badge/-Fastapi-05122A?style=for-the-badge&logo=Fastapi)
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=openjdk)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-05122A?style=for-the-badge&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-05122A?style=for-the-badge&logo=Github)
